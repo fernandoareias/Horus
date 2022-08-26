@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/Horus/bin/Debug/netcoreapp3.1
+/Horus/obj
+/Horus.Test/bin/Debug/netcoreapp3.1
+/Horus.Test/obj
